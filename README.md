@@ -1,2 +1,2 @@
 # DRUM-KIT
-![image](https://user-images.githubusercontent.com/92670560/233048130-bb3f248e-5f79-4f20-9949-1892157d3c85.png)
+![kit](https://user-images.githubusercontent.com/92670560/233048262-16e0b159-6f7a-4ac7-90dc-074f3dc6a666.png)
